@@ -1,0 +1,39 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-color: black;
+}
+
+.main{
+	text-align: center;
+	margin:0 auto;
+	width: 100%;
+	font-family: Courier;
+	font-size: 2em;
+	line-height: 200%
+}
+
+img{
+	display: block;
+    margin: auto;
+    width: 300px;
+}
+
+a:link{
+    text-decoration: none;
+    color: white;
+}
+
+a:visited{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+a:active{
+    text-decoration: none;
+    color: white;
+}
