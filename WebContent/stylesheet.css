@@ -14,26 +14,26 @@ body{
 
 img{
 	display: block;
-    margin: auto;
-    width: 300px;
+	margin: auto;
+	width: 150pt;
 }
 
 a:link{
-    text-decoration: none;
-    color: white;
+    	text-decoration: none;
+    	color: white;
 }
 
 a:visited{
-    text-decoration: none;
-    color: white;
+    	text-decoration: none;
+    	color: white;
 }
 
 a:hover{
-    text-decoration: none;
-    color: white;
+    	text-decoration: none;
+    	color: white;
 }
 
 a:active{
-    text-decoration: none;
-    color: white;
+    	text-decoration: none;
+    	color: white;
 }
