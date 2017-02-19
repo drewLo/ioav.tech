@@ -8,14 +8,11 @@ body{
     display: -webkit-flex;
     display: flex;
     width: 40%;
+	height: 125%;
     background-color: #000000;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-}
-
-.flex-item{
-    display: flex;
 }
 
 #main{
@@ -23,11 +20,13 @@ body{
 	margin: 0 auto;
 }
 
-#logo{
+.flex-item.logo{
+    display: flex;
 	width: 125pt;
 }
 
-a#link{
+.flex-item.link{
+	display: flex;
 	text-decoration: none;
     color: white;
 	font-family: Courier;
