@@ -8,7 +8,8 @@ body{
     display: -webkit-flex;
     display: flex;
     width: 40%;
-	height: 125%;
+	top: 0px;
+	bottom: 0px;
     background-color: #000000;
 	flex-direction: column;
 	align-items: center;
@@ -20,13 +21,15 @@ body{
 	margin: 0 auto;
 }
 
-.flex-item.logo{
-    display: flex;
-	width: 125pt;
+.flex-item{
+	display: flex;
 }
 
-.flex-item.link{
-	display: flex;
+.logo{
+    width: 125pt;
+}
+
+.link{
 	text-decoration: none;
     color: white;
 	font-family: Courier;
