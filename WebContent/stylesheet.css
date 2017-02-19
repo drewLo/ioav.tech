@@ -22,11 +22,10 @@ img{
 .flex-container{
     display: -webkit-flex;
     display: flex;
-    width: 50%;
-    height: 100%;
+    width: 540px;
+    height: 1080px;
     background-color: #000000;
 	flex-direction: column;
-	justify-content: center;
 }
 
 .flex-item{
@@ -36,7 +35,7 @@ img{
 
 #main{
 	text-align: center;
-	margin:0 auto;
+	margin: 0;
 	width: 50%;
 	font-family: Courier;
 	font-size: 2em;
