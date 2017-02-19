@@ -10,7 +10,7 @@ body{
     display: -webkit-flex;
     display: flex;
     width: 50vh;
-	height: 100vh;
+	height: 99vh;
     background-color: #000000;
 	flex-direction: column;
 	align-items: center;
@@ -22,14 +22,14 @@ body{
 }
 .logo{
     width: 7.5vw;
-	line-height: 300%;
+	padding: 2vw;
 }
 .link{
 	text-decoration: none;
     color: white;
 	font-family: Courier;
 	font-size: 2vw;
-	line-height: 200%;
+	line-height: 4vw;
 }
 #main{
 	text-align: center;
