@@ -15,16 +15,6 @@ img{
 	width: 150pt;
 }
 
-
-.main{
-	text-align: center;
-	margin:0 auto;
-	width: 50%;
-	font-family: Courier;
-	font-size: 2em;
-	line-height: 200%
-}
-
 .link{
 	display: block;
 }
@@ -39,9 +29,13 @@ img{
 
 .flex-item{
     display: flex;
-	text-decoration: none;
-    color: white;
-	<!--width: 100px;
-    height: 100px;
-    margin: 10px;-->
+}
+
+#main{
+	text-align: center;
+	margin:0 auto;
+	width: 50%;
+	font-family: Courier;
+	font-size: 2em;
+	line-height: 200%;
 }
