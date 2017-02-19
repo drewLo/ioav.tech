@@ -1,39 +1,38 @@
 @CHARSET "ISO-8859-1";
 body{
-	background-image: url("http://ioav.nfshost.com/WebContent/images/ioav-bg.jpg");
-	background-color: white;
+	background: url(http://ioav.nfshost.com/WebContent/images/ioav-bg.JPG) grey;
+	background-height: 100vh;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin:0;
+	padding:0;
 }
-
 .flex-container{
     display: -webkit-flex;
     display: flex;
-    width: 40%;
-	top: 0px;
-	bottom: 0px;
+    width: 25vw;
+	height: 100vh;
     background-color: #000000;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
 }
-
-#main{
-	text-align: center;
-	margin: 0 auto;
-}
-
 .flex-item{
 	display: flex;
 }
-
 .logo{
-    width: 125pt;
+    width: 7.5vw;
+	padding: 2vw;
 }
-
 .link{
 	text-decoration: none;
     color: white;
 	font-family: Courier;
-	font-size: 2em;
-	line-height: 200%;
+	font-size: 2vw;
+	line-height: 4vw;
 }
-	
+#main{
+	text-align: center;
+	margin: 0 auto;
+}
+ 
