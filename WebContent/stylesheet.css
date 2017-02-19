@@ -1,7 +1,8 @@
 @CHARSET "ISO-8859-1";
 body{
+		background-image: url("http://ioav.nfshost.com/WebContent/images/ioav-bg.jpg");
 		background-color: black;
-		background-image: "http://ioav.nfshost.com/WebContent/images/ioav-bg.jpg"
+		
 }
 
 a{
