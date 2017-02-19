@@ -9,12 +9,6 @@ a{
     color: white;
 }
 
-img{
-	display: block;
-	margin: auto;
-	width: 150pt;
-}
-
 .link{
 	display: block;
 }
@@ -30,12 +24,13 @@ img{
 
 .flex-item{
     display: flex;
-	align items: center;
+	justify-content: center;
 }
 
 #main{
 	text-align: center;
-	margin: 0;
+	image-align: center;
+	margin: 0 auto;
 	width: 50%;
 	font-family: Courier;
 	font-size: 2em;
@@ -43,5 +38,8 @@ img{
 }
 
 #logo{
-	
+	display: flex;
+	margin: 20px;
+	width: 150pt;
+	align-items: center;
 }
