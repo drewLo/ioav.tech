@@ -22,13 +22,16 @@ img{
 .flex-container{
     display: -webkit-flex;
     display: flex;
-    width: 400px;
-    height: 250px;
+    width: 50%;
+    height: 100%;
     background-color: #000000;
+	flex-direction: column;
+	justify-content: center;
 }
 
 .flex-item{
     display: flex;
+	align items: center;
 }
 
 #main{
@@ -38,4 +41,8 @@ img{
 	font-family: Courier;
 	font-size: 2em;
 	line-height: 200%;
+}
+
+#logo{
+	
 }
