@@ -4,15 +4,6 @@ body{
 	<!--background-color: black;-->
 }
 
-a{
-    text-decoration: none;
-    color: white;
-}
-
-.link{
-	display: block;
-}
-
 .flex-container{
     display: -webkit-flex;
     display: flex;
@@ -21,11 +12,12 @@ a{
     background-color: #000000;
 	flex-direction: column;
 	align-items: center;
+	justify-content: center;
 }
 
 .flex-item{
     display: flex;
-	justify-content: center;
+	<!--justify-content: center;-->
 }
 
 #main{
@@ -41,3 +33,9 @@ a{
 	margin: 20px;
 	width: 150pt;
 }
+
+a#link{
+	text-decoration: none;
+    color: white;
+}
+	
