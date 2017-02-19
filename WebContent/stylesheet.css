@@ -1,7 +1,7 @@
 @CHARSET "ISO-8859-1";
 body{
-	background-image: url("http://ioav.nfshost.com/WebContent/images/ioav-bg.jpg");
-	<!--background-color: black;-->
+	<!--background-image: url("http://ioav.nfshost.com/WebContent/images/ioav-bg.jpg");-->
+	background-color: white;
 }
 
 .flex-container{
@@ -30,8 +30,7 @@ body{
 }
 
 #logo{
-	margin: 20px;
-	width: 150pt;
+	width: 125pt;
 }
 
 a#link{
