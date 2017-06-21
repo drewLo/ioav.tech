@@ -42,8 +42,10 @@ body{
 	text-align: center;
 	margin: 0 auto;
 }
-
-
+#subtext{
+	font-size: 1vw;
+	line-height: 2vw;
+}
 
 /*! normalize.css v6.0.0 | MIT License | github.com/necolas/normalize.css */
 
