@@ -14,11 +14,11 @@ body{
 	justify-content: center;
 }
 .flex-container{
-    display: -webkit-flex;
-    display: flex;
-    width: 25vw;
-    height: 100vh;
-    background-color: #000000;
+	display: -webkit-flex;
+	display: flex;
+	width: 25vw;
+	height: 100vh;
+	background-color: #000000;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
@@ -38,12 +38,6 @@ body{
 	font-size: 2vw;
 	line-height: 4vw;
 }
-.subtxt{
-	text-decoration:none;
-	color: white;
-	font-family: Courier;
-	font-size: .5vw;
-	line-height 4vw;
 #main{
 	text-align: center;
 	margin: 0 auto;
