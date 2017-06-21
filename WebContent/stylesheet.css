@@ -38,6 +38,12 @@ body{
 	font-size: 2vw;
 	line-height: 4vw;
 }
+.subtxt{
+	text-decoration:none;
+	color: white;
+	font-family: Courier;
+	font-size: .5vw;
+	line-height 4vw;
 #main{
 	text-align: center;
 	margin: 0 auto;
