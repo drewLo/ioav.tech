@@ -1,7 +1,8 @@
 # io's web page
 This is the code for my website. It's in ongoing development!
 Current version: 0.4.3
-
+This readme serves as a changelog.
+ 
 ### v0.4.3 - 11.17.17
 =====
 - Removed Google analytics and facebook services.
