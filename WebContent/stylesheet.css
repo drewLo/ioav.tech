@@ -3,7 +3,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	background: url(https://ioav.nfshost.com/WebContent/images/ioav-bg.JPG) grey;
+	background: url(./WebContent/images/ioav-bg.JPG) grey;
 	background-attachment: fixed;
 	background-position: center;
 }
