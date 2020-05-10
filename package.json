@@ -1,0 +1,25 @@
+{
+  "name": "ioav.tech",
+  "version": "1.0.0",
+  "description": "website for audiovisual project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewLough/ioav.tech.git"
+  },
+  "keywords": [
+    "audio",
+    "visual",
+    "artist",
+    "portfolio"
+  ],
+  "author": "Drew Lough",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drewLough/ioav.tech/issues"
+  },
+  "homepage": "https://github.com/drewLough/ioav.tech#readme"
+}
